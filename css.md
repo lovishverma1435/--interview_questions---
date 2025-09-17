@@ -1219,9 +1219,3 @@ Answer:
 ✔ Variables aur mixins separate files mein
 ✔ Naming conventions follow karo (BEM, SMACSS, ITCSS)
 
-112. What is the role of CSS in Progressive Web Apps (PWA)?
-
-Answer:
-✔ Layout ko responsive banata hai
-✔ Offline mode mein fallback styling deta hai
-✔ Accessibility aur performance improve karta hai
