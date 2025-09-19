@@ -985,14 +985,3 @@ Answer:
 ✔ setTimeout fixed interval pe run karta hai
 
 ➤ Functional Programming
-99. Higher-order functions
-
-Answer:
-✔ Function ko argument ya return value ke roop mein use karna
-Example:
-
-const withLogging = fn => (...args) => { console.log(args); return fn(...args); }
-
-100. Currying & Partial Application
-
-✔ Already discussed, recursive functions aur functional programming mein kaafi use hota hai
